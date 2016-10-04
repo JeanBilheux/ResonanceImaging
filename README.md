@@ -1,1 +1,1 @@
-# ResonnanceImaging
+# ResonanceImaging
