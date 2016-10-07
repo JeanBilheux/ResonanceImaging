@@ -1,5 +1,0 @@
-# this is the resonnance example file
-# element, resonnance(ev)
-Al, 1, 2, 3, 4, 5
-Ta, 1.5, 2.5, 3.5, 4.5
-U, 0.25, 1.25, 2.25, 3.25

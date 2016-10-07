@@ -67,7 +67,7 @@ def load_csv_table_file(file_name):
             else:
                 _data_line = li.split(',')
                 if len(_data_line)>1:
-                    _data_float = [flaot(value) for value in _data_line[1:]]
+                    _data_float = [float(value) for value in _data_line[1:]]
                     _data[_data_line[0]] = _data_float
 
     result = {'metadata': _metadata,
