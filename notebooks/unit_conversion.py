@@ -1,3 +1,5 @@
+import math
+
 def convert_ev_to_lambda(dictionary):
     new_dict = {}
     for _tag, _value_ev in dictionary.items():
